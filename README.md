@@ -9,9 +9,18 @@
 ## 🚀 About Me
 
 **Computer Science Undergrad @ Amrita Vishwa Vidyapeetham**  
-**Creative Technologist | Game Dev | Builder**
+**Creative Technologist | Game Dev | Builder | Terminal Enjoyer**
 
-Blending coding, creativity, and discipline, I turn ideas into digital experiences. Whether designing horror UIs, building indie games, or sharpening my edge—in code and character—I’m in pursuit of tangible impact.
+- 🕹️ Multidisciplinary tech enthusiast & lifelong learner hacking at the intersection of **creativity and technology**.
+- 🎮 Game developer building things in **Unity** // **Godot** // **Blender**—from horror games to low-poly jams.
+- 🌐 Web dev with a love for both UI/UX flourishes and deep backend conjuring.
+- ⚙️ Lives in the terminal, keyboard warrior spirit—**"I use Arch btw"** (actually Nix/Arch/EndeavourOS)  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" width="20"/>
+- 💻 Minimalist tiling WM convert, custom ZSH themes, dotfile hoarder. *Unix is my playground.*
+- 🛠️ Obsessive about open source, clean design, efficiency & maintainable code, but not above an occasional `sudo rm -rf /`.
+- 📦 Always down to try new tools, automate workflows, and break my system (for science, obviously).
+- 📈 Advocate of practical innovation: start fast, break, rebuild, polish, repeat.
+- 🧠 *Mentally anime protagonist, physically benching merge conflicts.*
 
 ---
 
@@ -22,9 +31,9 @@ Blending coding, creativity, and discipline, I turn ideas into digital experienc
 - **Indie Game Prototypes**  
   Fast-paced development in Unity and Godot; from wild mechanics to atmospheric storytelling.
 - **YouTube Content Creation**  
-  Upcoming channel featuring game dev vlogs, punchy Fireship-style explainers, & raw build sessions.
+  Upcoming channel: game dev vlogs, Fireship-style explainers, and raw build sessions.
 - **Full-Stack Tools**  
-  Quick-build productivity utilities (Python/Flask, React) focused on real-world usability beyond tutorials.
+  Quick-build productivity utilities (Python/Flask, React) focused on real-world usability.
 
 ---
 
@@ -52,22 +61,17 @@ Blending coding, creativity, and discipline, I turn ideas into digital experienc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" width="40" alt="Nix"/>
 </p>
 
-
+---
 
 ## 🔥 Mindset & Vision
 
-- Execution-Driven: 48-hour builds. Ship first, polish next.
-- Sharp Focus: Master tools by making, not just reading.
-- Creative Discipline: From code to design to training—pushing aesthetics and performance together.
-
-**Goals:**  
-- Launch & grow my YouTube + GitHub  
-- Ship 5–10 polished tools or products  
-- Publish a full indie game  
-- Build my own UI/UX design system  
-- Level-up physique and portfolio—impact at first glance
+- 🏃 Execution-Driven: 48-hour builds. Ship first, break stuff, polish later.
+- 🪄 Sharp Focus: Mastery through shipping, not just reading docs.
+- ✨ Creative Discipline: Minimalism, dotfiles, hypertrophy IRL and in code.
+- 🎯 Levels: Launch & grow YouTube/GitHub, ship tools, publish indie games, roll own design system, flex on both code & fitness.
 
 ---
+
 ## 👾 Connect With Me
 
 <p align="left">
@@ -82,4 +86,3 @@ Blending coding, creativity, and discipline, I turn ideas into digital experienc
   </a>
   <img src="https://img.shields.io/badge/YouTube-Coming_Soon-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </p>
-
