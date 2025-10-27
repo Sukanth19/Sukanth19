@@ -1,4 +1,4 @@
-<img src="mario.gif" alt="Mario typing animation" width="100%" height="150"/>
+<img src="mario.gif" alt="Mario typing animation" width="100%" height="400"/>
 
 # 👋 Hey, I'm Sukanth
 
