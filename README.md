@@ -66,10 +66,18 @@ Blending coding, creativity, and discipline, I turn ideas into digital experienc
 - Level-up physique and portfolio—impact at first glance
 
 ---
-
 ## 👾 Connect With Me
 
-- GitHub: [github.com/Sukanth19](https://github.com/Sukanth19)
-- YouTube: Coming Soon 👀
-- Discord: zynk__19
-- Email: [sukan3066@gmail.com](mailto:sukan3066@gmail.com)
+<p align="left">
+  <a href="https://github.com/Sukanth19" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:sukan3066@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://discord.com/users/zynk__19" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <img src="https://img.shields.io/badge/YouTube-Coming_Soon-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</p>
+
