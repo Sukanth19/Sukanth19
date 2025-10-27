@@ -1,3 +1,5 @@
+<img src="mario.gif" alt="Mario typing animation" width="350"/>
+
 # 👋 Hey, I'm Sukanth
 
 > "Code like an artist, train like a warrior, think like a strategist."
