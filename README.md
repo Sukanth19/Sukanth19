@@ -1,66 +1,59 @@
-# 👋 Yo, I'm Sukanth
+# 👋 Hey, I'm Sukanth
 
-> _"Code like an artist, train like a warrior, think like a strategist."_
-
----
-
-🎓 **Computer Science Undergrad** | 🧠 **Creative Technologist in the Making**
-
-I'm a 2nd-year CSE student who blends **code, creativity, and discipline** into everything I do. Whether it's building full-stack apps, designing game mechanics, or crafting aesthetics in the real world—I’m all in.
+> "Code like an artist, train like a warrior, think like a strategist."
 
 ---
 
-## 🔧 What I’m Building
+## 🚀 About Me
 
-- 🧱 **Creepypasta Web App**  
-  A personal project designed to host and showcase horror short stories with an immersive UI. It's nearly complete—just waiting to be published.
+**Computer Science Undergrad @ Amrita Vishwa Vidyapeetham**  
+**Creative Technologist | Game Dev | Builder**
 
-- 🎮 **Mini Indie Games**  
-  Building games in Unity and Godot—exploring everything from mechanics to storytelling. Small ideas, fast execution, brutal polish.
-
-- 🎥 **Dev Content & Fast-Edits**  
-  Launching a YouTube channel focused on **game dev vlogs**, **Fireship-style tech videos**, and **raw build sessions**.
-
-- 💻 **Full-Stack Side Projects**  
-  Using Python (Flask), JS (React), and design systems to create simple yet useful tools and productivity apps—built for real-world use, not just tutorials.
+Blending coding, creativity, and discipline, I turn ideas into digital experiences. Whether designing horror UIs, building indie games, or sharpening my edge—in code and character—I’m in pursuit of tangible impact.
 
 ---
 
-## 🧰 My Toolbox
+## 🛠️ Projects & Passions
 
-```bash
-Languages:   Python | JavaScript | C | Java | HTML5/CSS3  
-Frameworks:  Flask | React | Bootstrap | Node.js  
-Game Dev:    Unity | Godot | Blender (Modeling & Renders)  
-Tools:       Git | Linux (EndeavourOS) | ZSH | VSCode | OBS  
-Learning:    UI/UX Design | Ethical Hacking | DS & Algorithms (in Python)
+- **Creepypasta Web App**  
+  Hosting immersive horror stories with a custom UI—almost ready to launch.
+- **Indie Game Prototypes**  
+  Fast-paced development in Unity and Godot; from wild mechanics to atmospheric storytelling.
+- **YouTube Content Creation**  
+  Upcoming channel featuring game dev vlogs, punchy Fireship-style explainers, & raw build sessions.
+- **Full-Stack Tools**  
+  Quick-build productivity utilities (Python/Flask, React) focused on real-world usability beyond tutorials.
 
-🧠 My Mindset
+---
 
-    💡 Execution-Driven — 48-hour builds, no excuses, just delivery.
+## ⚙️ Tech Stack
 
-    🎯 Sharp Focus — I don't just learn tools; I learn to ship.
+Languages: Python, JavaScript, C, Java, HTML5/CSS3  
+Frameworks: Flask, React, Bootstrap, Node.js  
+Game Dev: Unity, Godot, Blender (Modeling & Renders)  
+Tools: Git, Linux (EndeavourOS), ZSH, VSCode, OBS  
+Learning: UI/UX Design, Ethical Hacking, DS & Algorithms (Python)
 
-    🔥 Creative Discipline — From manga posters to ZSH themes, from hypertrophy to minimalism—everything I do has a visual and mental edge.
+---
 
-🎯 Long-Term Goals
+## 🔥 Mindset & Vision
 
-    🚀 Launch and grow my YouTube + GitHub presence
+- Execution-Driven: 48-hour builds. Ship first, polish next.
+- Sharp Focus: Master tools by making, not just reading.
+- Creative Discipline: From code to design to training—pushing aesthetics and performance together.
 
-    🧩 Build and ship 5–10 polished personal tools/products
+**Goals:**  
+- Launch & grow my YouTube + GitHub  
+- Ship 5–10 polished tools or products  
+- Publish a full indie game  
+- Build my own UI/UX design system  
+- Level-up physique and portfolio—impact at first glance
 
-    🕹️ Master game development and publish at least one full indie game
+---
 
-    🧑‍🎨 Design my own UI/UX design system from scratch
+## 👾 Connect With Me
 
-    🏆 Build a physique that turns heads and a portfolio that opens doors
-
-📫 Let's Link Up
-
-    GitHub: github.com/Sukanth19
-
-    YouTube: Coming Soon 👀
-
-    Discord: zynk__19
-
-    Email: sukan3066@gmail.com
+- GitHub: [github.com/Sukanth19](https://github.com/Sukanth19)
+- YouTube: Coming Soon 👀
+- Discord: zynk__19
+- Email: [sukan3066@gmail.com](mailto:sukan3066@gmail.com)
