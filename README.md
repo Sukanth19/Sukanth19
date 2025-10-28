@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Sukanth
 
-> "Code like an artist, train like a warrior, think like a strategist."
+> “Broke student. Bugged code. Borrowed time. Still building.”
 
 ---
 
