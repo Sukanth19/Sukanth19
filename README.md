@@ -1,8 +1,4 @@
-<img src="mario.gif" alt="Mario typing animation" width="100%" height="400"/>
-
-# 👋 Hey, I'm Sukanth
-
-> “Broke student. Bugged code. Borrowed time. Still building.”
+<!-- Typing animation / header --> <img src="mario.gif" alt="Mario typing animation" width="100%" height="400"/> <h1 align="center">👋 Hey, I'm <span style="color:#58a6ff;">Sukanth</span></h1> <p align="center"><em>“Broke student. Bugged code. Borrowed time. Still building.”</em></p>
 
 ---
 
@@ -55,10 +51,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" alt="Blender"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VSCode"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" alt="MATLAB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" width="40" alt="Nix"/>
 </p>
 
 ---
