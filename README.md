@@ -35,15 +35,24 @@
 <h2 align="center">🛠️ Projects & Passions</h2>
 
 <p align="center">
-<b>Creepypasta Web App</b><br>
-Hosting immersive horror stories with a custom UI—almost ready to launch.<br><br>
-<b>Indie Game Prototypes</b><br>
-Fast-paced development in Unity and Godot; wild mechanics & atmosphere.<br><br>
-<b>YouTube Content Creation</b><br>
-Upcoming channel: game dev vlogs, Fireship-style explainers, and raw build sessions.<br><br>
-<b>Full-Stack Tools</b><br>
-Quick-build productivity utilities (Python/Flask, React) focused on real-world usability.
-</p>
+<b>SneakerNet</b><br>
+Website to locate the best discounts on shoes, find where to buy used or resold sneakers, and track reselling markets and local deals.<br><br></p>
+
+<p align="center">
+<b>Spotifree</b><br>
+A free, privacy-friendly media player for local playback and lightweight streaming — no accounts, no tracking, just music.<br><br></p>
+
+<p align="center">
+<b>Typing Tester</b><br>
+A game where words move from left to right — type them fast to rack up your score and sharpen your speed and accuracy.<br><br></p>
+
+<p align="center">
+<b>Image to ASCII (C)</b><br>
+A compact C utility that converts images into ASCII art. Terminal nostalgia meets code efficiency.<br><br></p>
+
+<p align="center">
+<b>The Hollow Archive</b><br>
+A creepypasta and horror-story archive built for immersion, atmosphere, and community storytelling. </p>
 
 ---
 
@@ -77,7 +86,7 @@ Quick-build productivity utilities (Python/Flask, React) focused on real-world u
 🏃 Execution-Driven: 48-hour builds. Ship first, break stuff, polish later.<br>
 🪄 Sharp Focus: Mastery through shipping, not just reading docs.<br>
 ✨ Creative Discipline: Minimalism, dotfiles, hypertrophy—IRL and in code.<br>
-🎯 Goals: Grow YouTube & GitHub, ship tools, publish indie games, build a design system, balance code & fitness.
+🎯 Goals: Grow GitHub, ship tools like SneakerNet & Spotifree, publish indie games, build a design system, balance code & fitness.
 </p>
 
 ---
@@ -94,5 +103,4 @@ Quick-build productivity utilities (Python/Flask, React) focused on real-world u
   <a href="https://discord.com/users/zynk__19" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <img src="https://img.shields.io/badge/YouTube-Coming_Soon-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </p>
