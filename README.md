@@ -1,41 +1,55 @@
-<!-- Typing animation / header --> <img src="mario.gif" alt="Mario typing animation" width="100%" height="400"/> <h1 align="center">👋 Hey, I'm <span style="color:#58a6ff;">Sukanth</span></h1> <p align="center"><em>“Broke student. Bugged code. Borrowed time. Still building.”</em></p>
+<!-- Typing animation / header -->
+<p align="center">
+  <img src="mario.gif" alt="Mario typing animation" width="100%" height="400"/>
+</p>
+
+<h1 align="center">👋 Hey, I'm <span style="color:#58a6ff;">Sukanth</span></h1>
+<p align="center"><em>“Broke student. Bugged code. Borrowed time. Still building.”</em></p>
 
 ---
 
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
-**Computer Science Undergrad @ Amrita Vishwa Vidyapeetham**  
-**Creative Technologist | Game Dev | Builder | Terminal Enjoyer**
+<p align="center">
+<b>Computer Science Undergrad @ Amrita Vishwa Vidyapeetham</b><br>
+<b>Creative Technologist | Game Dev | Builder | Terminal Enjoyer</b>
+</p>
 
-- 🕹️ Multidisciplinary tech enthusiast & lifelong learner hacking at the intersection of **creativity and technology**.
-- 🎮 Game developer building things in **Unity** // **Godot** // **Blender**—from horror games to low-poly jams.
-- 🌐 Web dev with a love for both UI/UX flourishes and deep backend conjuring.
-- ⚙️ Lives in the terminal, keyboard warrior spirit—**"I use Arch btw"** (actually Nix/Arch/EndeavourOS)  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" width="20"/>
-- 💻 Minimalist tiling WM convert, custom ZSH themes, dotfile hoarder. *Unix is my playground.*
-- 🛠️ Obsessive about open source, clean design, efficiency & maintainable code, but not above an occasional `sudo rm -rf /`.
-- 📦 Always down to try new tools, automate workflows, and break my system (for science, obviously).
-- 📈 Advocate of practical innovation: start fast, break, rebuild, polish, repeat.
-- 🧠 *Mentally anime protagonist, physically benching merge conflicts.*
-
----
-
-## 🛠️ Projects & Passions
-
-- **Creepypasta Web App**  
-  Hosting immersive horror stories with a custom UI—almost ready to launch.
-- **Indie Game Prototypes**  
-  Fast-paced development in Unity and Godot; from wild mechanics to atmospheric storytelling.
-- **YouTube Content Creation**  
-  Upcoming channel: game dev vlogs, Fireship-style explainers, and raw build sessions.
-- **Full-Stack Tools**  
-  Quick-build productivity utilities (Python/Flask, React) focused on real-world usability.
+<p align="center">
+🕹️ Multidisciplinary tech enthusiast hacking at the intersection of <b>creativity and technology</b>.<br>
+🎮 Game developer building things in <b>Unity</b> // <b>Godot</b> // <b>Blender</b>—from horror games to low-poly jams.<br>
+🌐 Web dev who loves both UI/UX flourishes and backend conjuring.<br>
+⚙️ Lives in the terminal—keyboard warrior spirit: <code>"I use Arch btw"</code> (actually Nix/Arch/EndeavourOS)<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" width="20"/><br>
+💻 Minimalist tiling WM convert, custom ZSH themes, dotfile hoarder.<br>
+🛠️ Obsessive about open source, clean design, and efficient code (but not above an occasional <code>sudo rm -rf /</code>).<br>
+📦 Always trying new tools, automating workflows, and breaking systems (for science).<br>
+📈 Advocate of practical innovation: start fast, break, rebuild, polish, repeat.<br>
+🧠 Mentally anime protagonist, physically benching merge conflicts.
+</p>
 
 ---
 
-## 💻 Programming Languages & Frameworks
+<h2 align="center">🛠️ Projects & Passions</h2>
 
-<p align="left">
+<p align="center">
+<b>Creepypasta Web App</b><br>
+Hosting immersive horror stories with a custom UI—almost ready to launch.<br><br>
+<b>Indie Game Prototypes</b><br>
+Fast-paced development in Unity and Godot; wild mechanics & atmosphere.<br><br>
+<b>YouTube Content Creation</b><br>
+Upcoming channel: game dev vlogs, Fireship-style explainers, and raw build sessions.<br><br>
+<b>Full-Stack Tools</b><br>
+Quick-build productivity utilities (Python/Flask, React) focused on real-world usability.
+</p>
+
+---
+
+<h2 align="center">💻 Programming Languages & Frameworks</h2>
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
@@ -57,18 +71,20 @@
 
 ---
 
-## 🔥 Mindset & Vision
+<h2 align="center">🔥 Mindset & Vision</h2>
 
-- 🏃 Execution-Driven: 48-hour builds. Ship first, break stuff, polish later.
-- 🪄 Sharp Focus: Mastery through shipping, not just reading docs.
-- ✨ Creative Discipline: Minimalism, dotfiles, hypertrophy IRL and in code.
-- 🎯 Levels: Launch & grow YouTube/GitHub, ship tools, publish indie games, roll own design system, flex on both code & fitness.
+<p align="center">
+🏃 Execution-Driven: 48-hour builds. Ship first, break stuff, polish later.<br>
+🪄 Sharp Focus: Mastery through shipping, not just reading docs.<br>
+✨ Creative Discipline: Minimalism, dotfiles, hypertrophy—IRL and in code.<br>
+🎯 Goals: Grow YouTube & GitHub, ship tools, publish indie games, build a design system, balance code & fitness.
+</p>
 
 ---
 
-## 👾 Connect With Me
+<h2 align="center">👾 Connect With Me</h2>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/Sukanth19" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
