@@ -17,14 +17,28 @@
 
 ---
 
-## 📌 About
+## 📌 About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 Computer Science undergraduate at **Amrita Vishwa Vidyapeetham**. I build at the intersection of software development, game design, and system architecture. Focused on shipping functional products and learning through execution.
 
 **Current Focus:** Web applications, game development, and open-source tooling  
+
 **Approach:** Ship fast, iterate, refine
 
-<br>
+</td>
+<td width="40%" valign="top">
+
+<img src="julius.jpg" alt="Julius Caesar" width="100%">
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 💻 Tech Stack
 
@@ -52,7 +66,7 @@ class Developer {
 
 <br>
 
-## 🛠️ Projects
+## 🛠 Projects
 
 <table>
 <tr>
@@ -107,25 +121,21 @@ Archive and community platform for horror fiction and creepypasta. Focus on atmo
 
 <br>
 
-## 📊 GitHub Statistics
+## 📈 Contribution Graph
 
 <div align="center">
 
-### 📈 Overall Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Sukanth19&show_icons=true&theme=dark&hide_border=true&bg_color=1a1b27&title_color=C9A887&icon_color=C9A887&text_color=c9d1d9&ring_color=C9A887" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukanth19&layout=compact&theme=dark&hide_border=true&bg_color=1a1b27&title_color=C9A887&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="180"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sukanth19&theme=react-dark&hide_border=true&bg_color=1a1b27&color=C9A887&line=C9A887&point=c9d1d9&area=true&area_color=C9A887" alt="Contribution Graph"/>
 
-### 🔥 Contribution Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sukanth19&theme=dark&hide_border=true&background=1a1b27&ring=C9A887&fire=C9A887&currStreakLabel=C9A887&sideLabels=C9A887&sideNums=C9A887" alt="GitHub Streak" width="600"/>
+</div>
 
-### 📦 Top Contributed Repositories
-<img src="https://github-contributor-stats.vercel.app/api?username=Sukanth19&limit=5&theme=dark&hide_border=true&bg_color=1a1b27&title_color=C9A887&text_color=c9d1d9&icon_color=C9A887" alt="Top Contributed Repo" width="600"/>
+<br>
 
-### 💭 Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=false&quote_bg_color=1a1b27&quote_color=C9A887&author_color=c9d1d9" alt="Random Dev Quote" width="600"/>
+## 💭 Random Dev Quote
 
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Sukanth19&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7&title_color=C9A887&text_color=c9d1d9&icon_color=C9A887" alt="Trophies"/>
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote_bg_color=1a1b27&quote_color=C9A887&author_color=c9d1d9&border_color=C9A887)
 
 </div>
 
@@ -151,13 +161,13 @@ Building systems, solving problems, writing code.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sukanth19)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sukan3066@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/zynk__19)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=C9A887)](https://github.com/Sukanth19)
+[![Email](https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=C9A887)](mailto:sukan3066@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-1a1b27?style=for-the-badge&logo=discord&logoColor=C9A887)](https://discord.com/users/zynk__19)
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Sukanth19&color=C9A887&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+![Profile Views](https://komarev.com/ghpvc/?username=Sukanth19&color=C9A887&style=flat-square&label=Profile+Views)
 
 </div>
 
