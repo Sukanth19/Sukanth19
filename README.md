@@ -1,106 +1,168 @@
-<!-- Typing animation / header -->
-<p align="center">
-  <img src="mario.gif" alt="Mario typing animation" width="100%" height="400"/>
-</p>
+<div align="center">
 
-<h1 align="center">👋 Hey, I'm <span style="color:#58a6ff;">Sukanth</span></h1>
-<p align="center"><em>“Broke student. Bugged code. Borrowed time. Still building.”</em></p>
+<!-- Animated typing header with vintage colors -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=C9A887&center=true&vCenter=true&width=600&lines=Sukanth;Computer+Science+Student;Developer+%7C+Builder+%7C+Creator" alt="Typing SVG" />
 
----
+<br>
 
-<h2 align="center">🚀 About Me</h2>
+```ascii
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║     "Building tools, games, and systems that matter"     ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
-<p align="center">
-<b>Computer Science Undergrad @ Amrita Vishwa Vidyapeetham</b><br>
-<b>Creative Technologist | Game Dev | Builder | Terminal Enjoyer</b>
-</p>
-
-<p align="center">
-🕹️ Multidisciplinary tech enthusiast hacking at the intersection of <b>creativity and technology</b>.<br>
-🎮 Game developer building things in <b>Unity</b> // <b>Godot</b> // <b>Blender</b>—from horror games to low-poly jams.<br>
-🌐 Web dev who loves both UI/UX flourishes and backend conjuring.<br>
-⚙️ Lives in the terminal—keyboard warrior spirit: <code>"I use Arch btw"</code> (actually Nix/Arch/EndeavourOS)<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="20"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" width="20"/><br>
-💻 Minimalist tiling WM convert, custom ZSH themes, dotfile hoarder.<br>
-🛠️ Obsessive about open source, clean design, and efficient code (but not above an occasional <code>sudo rm -rf /</code>).<br>
-📦 Always trying new tools, automating workflows, and breaking systems (for science).<br>
-📈 Advocate of practical innovation: start fast, break, rebuild, polish, repeat.<br>
-🧠 Mentally anime protagonist, physically benching merge conflicts.
-</p>
+</div>
 
 ---
 
-<h2 align="center">🛠️ Projects & Passions</h2>
+## 📌 About
 
-<p align="center">
-<b>SneakerNet</b><br>
-Website to locate the best discounts on shoes, find where to buy used or resold sneakers, and track reselling markets and local deals.<br><br></p>
+Computer Science undergraduate at **Amrita Vishwa Vidyapeetham**. I build at the intersection of software development, game design, and system architecture. Focused on shipping functional products and learning through execution.
 
-<p align="center">
-<b>Spotifree</b><br>
-A free, privacy-friendly media player for local playback and lightweight streaming — no accounts, no tracking, just music.<br><br></p>
+**Current Focus:** Web applications, game development, and open-source tooling  
+**Approach:** Ship fast, iterate, refine
 
-<p align="center">
-<b>Typing Tester</b><br>
-A game where words move from left to right — type them fast to rack up your score and sharpen your speed and accuracy.<br><br></p>
+<br>
 
-<p align="center">
-<b>Image to ASCII (C)</b><br>
-A compact C utility that converts images into ASCII art. Terminal nostalgia meets code efficiency.<br><br></p>
+## 💻 Tech Stack
 
-<p align="center">
-<b>The Hollow Archive</b><br>
-A creepypasta and horror-story archive built for immersion, atmosphere, and community storytelling. </p>
+```cpp
+class Developer {
+    private:
+        vector<string> languages = {"C++", "Python", "JavaScript", "C", "Java"};
+        vector<string> web = {"React", "Node.js", "Flask", "HTML/CSS"};
+        vector<string> gamedev = {"Unity", "Godot", "Blender"};
+        vector<string> tools = {"Git", "Linux", "Bash", "Neovim"};
+        
+    public:
+        string current_status = "Building SneakerNet & Spotifree";
+        string learning = "Advanced algorithms & system design";
+        
+        void code() {
+            while (true) {
+                learn();
+                build();
+                ship();
+            }
+        }
+};
+```
+
+<br>
+
+## 🛠️ Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**SneakerNet**  
+Web platform for tracking shoe discounts, resale markets, and local deals. Aggregates pricing data to help users find the best value.
+
+`React` `Node.js` `Web Scraping`
+
+</td>
+<td width="50%" valign="top">
+
+**Spotifree**  
+Privacy-focused media player for local and streaming playback. No accounts, no tracking, no subscriptions.
+
+`Python` `Flask` `JavaScript`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+**Typing Tester**  
+Speed typing game with moving targets. Built to improve typing accuracy and speed through gamification.
+
+`JavaScript` `Canvas API`
+
+</td>
+<td width="50%" valign="top">
+
+**Image to ASCII**  
+Efficient C utility for converting images to ASCII art. Optimized for terminal output and file processing.
+
+`C` `Image Processing`
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+
+**The Hollow Archive**  
+Archive and community platform for horror fiction and creepypasta. Focus on atmosphere, curation, and reader engagement.
+
+`Web Development` `Community Building`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+### 📈 Overall Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Sukanth19&show_icons=true&theme=dark&hide_border=true&bg_color=1a1b27&title_color=C9A887&icon_color=C9A887&text_color=c9d1d9&ring_color=C9A887" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukanth19&layout=compact&theme=dark&hide_border=true&bg_color=1a1b27&title_color=C9A887&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="180"/>
+
+### 🔥 Contribution Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sukanth19&theme=dark&hide_border=true&background=1a1b27&ring=C9A887&fire=C9A887&currStreakLabel=C9A887&sideLabels=C9A887&sideNums=C9A887" alt="GitHub Streak" width="600"/>
+
+### 📦 Top Contributed Repositories
+<img src="https://github-contributor-stats.vercel.app/api?username=Sukanth19&limit=5&theme=dark&hide_border=true&bg_color=1a1b27&title_color=C9A887&text_color=c9d1d9&icon_color=C9A887" alt="Top Contributed Repo" width="600"/>
+
+### 💭 Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=false&quote_bg_color=1a1b27&quote_color=C9A887&author_color=c9d1d9" alt="Random Dev Quote" width="600"/>
+
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=Sukanth19&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7&title_color=C9A887&text_color=c9d1d9&icon_color=C9A887" alt="Trophies"/>
+
+</div>
+
+<br>
+
+## ⚡ Principles
+
+```bash
+$ cat approach.txt
+
+├─ Execution over planning
+├─ Iteration over perfection  
+├─ Shipping over theorizing
+└─ Learning through building
+
+$ uptime
+Building systems, solving problems, writing code.
+```
+
+<br>
+
+## 🌐 Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sukanth19)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sukan3066@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/zynk__19)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Sukanth19&color=C9A887&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+
+</div>
 
 ---
 
-<h2 align="center">💻 Programming Languages & Frameworks</h2>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" alt="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" alt="Unity"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" alt="Godot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" alt="Blender"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" alt="MATLAB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash"/>
-</p>
-
----
-
-<h2 align="center">🔥 Mindset & Vision</h2>
-
-<p align="center">
-🏃 Execution-Driven: 48-hour builds. Ship first, break stuff, polish later.<br>
-🪄 Sharp Focus: Mastery through shipping, not just reading docs.<br>
-✨ Creative Discipline: Minimalism, dotfiles, hypertrophy—IRL and in code.<br>
-🎯 Goals: Grow GitHub, ship tools like SneakerNet & Spotifree, publish indie games, build a design system, balance code & fitness.
-</p>
-
----
-
-<h2 align="center">👾 Connect With Me</h2>
-
-<p align="center">
-  <a href="https://github.com/Sukanth19" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:sukan3066@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://discord.com/users/zynk__19" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</p>
+<div align="center">
+<sub>Last updated: 2025</sub>
+</div>
