@@ -1,7 +1,10 @@
 <div align="center">
 
-<!-- Animated typing header with vintage colors -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=C9A887&center=true&vCenter=true&width=600&lines=Sukanth;Computer+Science+Student;Developer+%7C+Builder+%7C+Creator" alt="Typing SVG" />
+<!-- First line: Name -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=C9A887&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sukanth" alt="Typing SVG Line 1" />
+
+<!-- Second line: Roles -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=C9A887&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Developer+%7C+Builder+%7C+Creator" alt="Typing SVG Line 2" />
 
 <br>
 
@@ -45,8 +48,9 @@ Computer Science undergraduate at **Amrita Vishwa Vidyapeetham**. I build at the
 ```cpp
 class Developer {
     private:
-        vector<string> languages = {"C++", "Python", "JavaScript", "C", "Java"};
-        vector<string> web = {"React", "Node.js", "Flask", "HTML/CSS"};
+        vector<string> languages = {"C++", "Python", "JavaScript", "C", "Java", "Haskell"};
+        vector<string> libraries = {"Pandas", "NumPy"}
+        vector<string> web = {"HTML/CSS", "React", "Node.js", "Flask", "Typescript"};
         vector<string> gamedev = {"Unity", "Godot", "Blender"};
         vector<string> tools = {"Git", "Linux", "Bash", "Neovim"};
         
