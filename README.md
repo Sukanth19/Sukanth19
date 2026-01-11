@@ -11,7 +11,7 @@
 ```ascii
 ╔═══════════════════════════════════════════════════════════╗
 ║                                                           ║
-║     "Building tools, games, and systems that matter"     ║
+║     "Building tools, games, and systems that matter"      ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
