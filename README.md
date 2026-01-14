@@ -40,11 +40,13 @@ Computer Science undergraduate at **Amrita Vishwa Vidyapeetham**. I build at the
 ```cpp
 class Developer {
     private:
-        vector<string> languages = {"C++", "Python", "JavaScript", "C", "Java", "Haskell"};
+        vector<string> languages = {"C++", "Python", "JavaScript", "Typescript", "C", "Java", "Haskell"};
         vector<string> libraries = {"Pandas", "NumPy"}
-        vector<string> web = {"HTML/CSS", "React", "Node.js", "Flask", "Typescript"};
+        vector<string> web = {"HTML/CSS", "React", "Next.js", "Flask", "FastAPI", "Typescript"};
+        vector<string> databases = {"Supabase", "Firebase", "MongoDB"}
         vector<string> gamedev = {"Unity", "Godot", "Blender"};
-        vector<string> tools = {"Git", "Linux", "Bash", "Neovim"};
+        vector<string> devops_cloud = {"Docker", "Kubernetes", "Linux", "Bash"}
+        vector<string> tools = {"Git", "Github", "Postman", "Neovim"};
         
     public:
         string current_status = "Building SneakerNet & Spotifree";
