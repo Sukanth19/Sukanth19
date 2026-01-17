@@ -78,10 +78,10 @@ Web platform for tracking shoe discounts, resale markets, and local deals. Aggre
 </td>
 <td width="50%" valign="top">
 
-**Spotifree**  
-Privacy-focused media player for local and streaming playback. No accounts, no tracking, no subscriptions.
+**jamr.io**  
+Real-time music matchmaking platform that connects users into Spotify Jam rooms based on shared listening taste. Users are matched via audio-feature similarity, join live chat rooms, and hop into Spotify Jams through invite links.
 
-`Python` `Flask` `JavaScript`
+`Next.js` `FastAPI` `Spotify Web API` `WebSockets` `PostgreSQL` `scikit-learn` `Typescript` 
 
 </td>
 </tr>
