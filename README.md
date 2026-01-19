@@ -18,7 +18,7 @@
 <tr>
 <td width="60%" valign="top">
 
-Computer Science undergraduate at **Amrita Vishwa Vidyapeetham**.  I build at the intersection of software development, game design, and system architecture.  Focused on shipping functional products and learning through execution.
+Computer Science undergraduate at **Amrita Vishwa Vidyapeetham**. I build at the intersection of software development, game design, and system architecture. Focused on shipping functional products and learning through execution. 
 
 **Current Focus:** Web applications, game development, and open-source tooling  
 
@@ -71,7 +71,7 @@ class Developer {
 <td width="50%" valign="top">
 
 **SneakerNet**  
-Web platform for tracking shoe discounts, resale markets, and local deals.  Aggregates pricing data to help users find the best value. 
+Web platform for tracking shoe discounts, resale markets, and local deals. Aggregates pricing data to help users find the best value. 
 
 `React` `Node.js` `Web Scraping`
 
@@ -116,6 +116,23 @@ Archive and community platform for horror fiction and creepypasta. Focus on atmo
 </td>
 </tr>
 </table>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sukanth19&theme=tokyonight" alt="GitHub Profile Summary"/>
+
+</div>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sukanth19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1f&title_color=5EB3FF&icon_color=FF6B9D&text_color=c9d1d9&count_private=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Sukanth19&theme=tokyonight&hide_border=true&background=0d0d1f&ring=5EB3FF&fire=FF6B9D&currStreakLabel=5EB3FF&sideNums=5EB3FF&currStreakNum=FF6B9D&sideLabels=A78BFA"/>
+
+</div>
 
 <br>
 
