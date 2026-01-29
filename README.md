@@ -71,9 +71,10 @@ class Developer {
 <td width="50%" valign="top">
 
 **SneakerNet**  
-Web platform for tracking shoe discounts, resale markets, and local deals. Aggregates pricing data to help users find the best value. 
+Sneaker intelligence platform that aggregates pricing across marketplaces to help users discover fair value, track resale trends, and make informed buy or sell decisions. Built with a scalable backend and ML-ready architecture for future personalization and analytics.
 
-`React` `Node.js` `Web Scraping`
+`Next.js` `FastAPI` `PostgreSQL` `Web Scraping` `Machine Learning`
+
 
 </td>
 <td width="50%" valign="top">
