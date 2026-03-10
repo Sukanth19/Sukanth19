@@ -130,7 +130,6 @@ Archive and community platform for horror fiction and creepypasta. Focus on atmo
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sukanth19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1f&title_color=5EB3FF&icon_color=FF6B9D&text_color=c9d1d9&count_private=true"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Sukanth19&theme=tokyonight&hide_border=true&background=0d0d1f&ring=5EB3FF&fire=FF6B9D&currStreakLabel=5EB3FF&sideNums=5EB3FF&currStreakNum=FF6B9D&sideLabels=A78BFA"/>
 
 </div>
