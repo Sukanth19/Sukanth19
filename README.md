@@ -72,16 +72,14 @@ class Developer {
 <tr>
 <td width="50%" valign="top">
 
-**SneakerNet**
-Sneaker intelligence platform that aggregates pricing across marketplaces to help users discover fair value, track resale trends, and make informed buy or sell decisions. Built with a scalable backend and ML-ready architecture for future personalization and analytics.
+**SneakerNet:** Sneaker intelligence platform that aggregates pricing across marketplaces to help users discover fair value, track resale trends, and make informed buy or sell decisions. Built with a scalable backend and ML-ready architecture for future personalization and analytics.
 
 `Next.js` `FastAPI` `PostgreSQL` `Web Scraping` `Machine Learning`
 
 </td>
 <td width="50%" valign="top">
 
-**jamr.io**
-Real-time music matchmaking platform that connects users into Spotify Jam rooms based on shared listening taste. Users are matched via audio-feature similarity, join live chat rooms, and hop into Spotify Jams through invite links.
+**jamr.io:** Real-time music matchmaking platform that connects users into Spotify Jam rooms based on shared listening taste. Users are matched via audio-feature similarity, join live chat rooms, and hop into Spotify Jams through invite links.
 
 `Next.js` `FastAPI` `Spotify Web API` `WebSockets` `PostgreSQL` `scikit-learn` `TypeScript`
 
@@ -91,16 +89,14 @@ Real-time music matchmaking platform that connects users into Spotify Jam rooms 
 <tr>
 <td width="50%" valign="top">
 
-**Typing Tester**
-Speed typing game with moving targets. Built to improve typing accuracy and speed through gamification.
+**Typing Tester:** Speed typing game with moving targets. Built to improve typing accuracy and speed through gamification.
 
 `JavaScript` `Canvas API`
 
 </td>
 <td width="50%" valign="top">
 
-**Image to ASCII**
-Efficient C utility for converting images to ASCII art. Optimized for terminal output and file processing.
+**Image to ASCII:** Efficient C utility for converting images to ASCII art. Optimized for terminal output and file processing.
 
 `C` `Image Processing`
 
@@ -110,8 +106,7 @@ Efficient C utility for converting images to ASCII art. Optimized for terminal o
 <tr>
 <td colspan="2" valign="top">
 
-**The Hollow Archive**
-Archive and community platform for horror fiction and creepypasta. Focus on atmosphere, curation, and reader engagement.
+**The Hollow Archive:** Archive and community platform for horror fiction and creepypasta. Focus on atmosphere, curation, and reader engagement.
 
 `Web Development` `Community Building`
 
