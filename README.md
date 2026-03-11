@@ -122,15 +122,21 @@ class Developer {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sukanth19&theme=tokyonight" alt="GitHub Profile Summary"/>
-
-</div>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Sukanth19&theme=tokyonight&hide_border=true&background=0d0d1f&ring=5EB3FF&fire=FF6B9D&currStreakLabel=5EB3FF&sideNums=5EB3FF&currStreakNum=FF6B9D&sideLabels=A78BFA"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukanth19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1f&title_color=5EB3FF&text_color=c9d1d9"/>
+<table>
+<tr>
+<td colspan="2" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sukanth19&theme=tokyonight" alt="GitHub Profile Summary" width="100%"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Sukanth19&theme=tokyonight&hide_border=true&background=0d0d1f&ring=5EB3FF&fire=FF6B9D&currStreakLabel=5EB3FF&sideNums=5EB3FF&currStreakNum=FF6B9D&sideLabels=A78BFA" alt="GitHub Streak" width="100%"/>
+</td>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukanth19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1f&title_color=5EB3FF&text_color=c9d1d9" alt="Top Languages" width="100%"/>
+</td>
+</tr>
+</table>
 
 </div>
 
