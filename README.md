@@ -106,9 +106,9 @@ class Developer {
 <tr>
 <td colspan="2" valign="top">
 
-**The Hollow Archive:** Archive and community platform for horror fiction and creepypasta. Focus on atmosphere, curation, and reader engagement.
+**Eidothea:** Knowledge archive and community platform for creepypastas, SCP lore, cryptids, and real-life mysteries. Designed with structured lore entries and discussion threads so users can explore canon information while sharing theories and interpretations.
 
-`Web Development` `Community Building`
+`FastAPI` `Python` `Web Development` `Community Systems`
 
 </td>
 </tr>
