@@ -41,7 +41,7 @@ Computer Science undergraduate at **Amrita Vishwa Vidyapeetham**. I build at the
 class Developer {
     private:
         vector<string> languages      = {"C++", "Python", "JavaScript", "TypeScript", "C", "Java", "Haskell"};
-        vector<string> libraries      = {"Pandas", "NumPy"};
+        vector<string> libraries      = {"Pandas", "NumPy", "Matplotlib", "Seaborn"};
         vector<string> web            = {"HTML/CSS", "React", "Next.js", "Flask", "FastAPI"};
         vector<string> databases      = {"PostgreSQL", "Supabase", "Firebase", "MongoDB"};
         vector<string> gamedev        = {"Unity", "Godot", "Blender"};
