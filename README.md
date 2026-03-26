@@ -12,7 +12,7 @@
 
 ---
 
-## 📌 About Me
+## ( i ) About Me
 
 <table>
 <tr>
@@ -35,7 +35,7 @@ Computer Science undergraduate at **Amrita Vishwa Vidyapeetham**. I build at the
 
 ---
 
-## 💻 Tech Stack
+## { } Tech Stack
 
 ```cpp
 class Developer {
@@ -66,20 +66,20 @@ class Developer {
 
 ---
 
-## 🛠 Projects
+## [>] Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**SneakerNet:** Sneaker intelligence platform that aggregates pricing across marketplaces to help users discover fair value, track resale trends, and make informed buy or sell decisions. Built with a scalable backend and ML-ready architecture for future personalization and analytics.
+**SneakerNet** — Sneaker intelligence platform that aggregates pricing across marketplaces to help users discover fair value, track resale trends, and make informed buy or sell decisions. Built with a scalable backend and ML-ready architecture for future personalization and analytics.
 
 `Next.js` `FastAPI` `PostgreSQL` `Web Scraping` `Machine Learning`
 
 </td>
 <td width="50%" valign="top">
 
-**jamr.io:** Real-time music matchmaking platform that connects users into Spotify Jam rooms based on shared listening taste. Users are matched via audio-feature similarity, join live chat rooms, and hop into Spotify Jams through invite links.
+**jamr.io** — Real-time music matchmaking platform that connects users into Spotify Jam rooms based on shared listening taste. Users are matched via audio-feature similarity, join live chat rooms, and hop into Spotify Jams through invite links.
 
 `Next.js` `FastAPI` `Spotify Web API` `WebSockets` `PostgreSQL` `scikit-learn` `TypeScript`
 
@@ -89,14 +89,14 @@ class Developer {
 <tr>
 <td width="50%" valign="top">
 
-**Typing Tester:** Speed typing game with moving targets. Built to improve typing accuracy and speed through gamification.
+**Typing Tester** — Speed typing game with moving targets. Built to improve typing accuracy and speed through gamification.
 
 `JavaScript` `Canvas API`
 
 </td>
 <td width="50%" valign="top">
 
-**Image to ASCII:** Efficient C utility for converting images to ASCII art. Optimized for terminal output and file processing.
+**Image to ASCII** — Efficient C utility for converting images to ASCII art. Optimized for terminal output and file processing.
 
 `C` `Image Processing`
 
@@ -106,7 +106,7 @@ class Developer {
 <tr>
 <td colspan="2" valign="top">
 
-**Eidothea:** Knowledge archive and community platform for creepypastas, SCP lore, cryptids, and real-life mysteries. Designed with structured lore entries and discussion threads so users can explore canon information while sharing theories and interpretations.
+**Eidothea** — Knowledge archive and community platform for creepypastas, SCP lore, cryptids, and real-life mysteries. Designed with structured lore entries and discussion threads so users can explore canon information while sharing theories and interpretations.
 
 `FastAPI` `Python` `Web Development` `Community Systems`
 
@@ -118,7 +118,7 @@ class Developer {
 
 ---
 
-## 📊 GitHub Stats
+## [#] GitHub Stats
 
 <div align="center">
 
@@ -144,7 +144,7 @@ class Developer {
 
 ---
 
-## 📈 Contribution Graph
+## [~] Contribution Graph
 
 <div align="center">
 
@@ -156,7 +156,7 @@ class Developer {
 
 ---
 
-## 💭 Random Dev Quote
+## " " Random Dev Quote
 
 <div align="center">
 
@@ -168,7 +168,7 @@ class Developer {
 
 ---
 
-## ⚡ Principles
+## [*] Principles
 
 ```bash
 $ cat approach.txt
@@ -186,7 +186,7 @@ Building systems, solving problems, writing code.
 
 ---
 
-## 🌐 Connect
+## [@] Connect
 
 <div align="center">
 
