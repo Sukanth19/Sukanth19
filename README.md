@@ -122,23 +122,29 @@ class Developer {
 
 <div align="center">
 
+<!-- Top Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=Sukanth19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1f&title_color=5EB3FF&icon_color=FF6B9D&text_color=c9d1d9&cache_seconds=86400"
+height="180"/>
+
+<br><br>
+
+<!-- Bottom Row -->
 <table>
 <tr>
-<td width="33%">
-<img src="https://github-readme-stats.vercel.app/api?username=Sukanth19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1f&title_color=5EB3FF&icon_color=FF6B9D&text_color=c9d1d9" width="100%"/>
+<td align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Sukanth19&theme=tokyonight&hide_border=true&background=0d0d1f&ring=5EB3FF&fire=FF6B9D&currStreakLabel=5EB3FF&sideNums=5EB3FF&currStreakNum=FF6B9D&sideLabels=A78BFA&cache_seconds=86400"
+height="170"/>
 </td>
 
-<td width="33%">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Sukanth19&theme=tokyonight&hide_border=true&background=0d0d1f&ring=5EB3FF&fire=FF6B9D&currStreakLabel=5EB3FF&sideNums=5EB3FF&currStreakNum=FF6B9D&sideLabels=A78BFA" width="100%"/>
-</td>
-
-<td width="33%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukanth19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1f&title_color=5EB3FF&text_color=c9d1d9" width="100%"/>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukanth19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1f&title_color=5EB3FF&text_color=c9d1d9&cache_seconds=86400"
+height="170"/>
 </td>
 </tr>
 </table>
 
 </div>
+
 ---
 
 ## [Now Playing]
@@ -148,9 +154,11 @@ class Developer {
 <b>Currently Playing</b>
 <br><br>
 
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d0d1f&interchange=false&bar_color=5EB3FF&bar_color_cover=false" width="60%"/>
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3135cbhzjjviswpk6zxqfs23kreq&cover_image=true&theme=novatorem&show_offline=false&background_color=0d0d1f&interchange=false&bar_color=5EB3FF&bar_color_cover=false"
+height="180"/>
 
 </div>
+
 ## [~] Contribution Graph
 
 <div align="center">
