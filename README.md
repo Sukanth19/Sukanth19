@@ -151,7 +151,6 @@ height="170"/>
 
 <div align="center">
 
-<b>Currently Playing</b>
 <br><br>
 
 <a href="https://github.com/kittinan/spotify-github-profile">
