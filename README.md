@@ -145,20 +145,9 @@ height="170"/>
 
 </div>
 
+
 ---
 
-## [Now Playing]
-
-<div align="center">
-
-<br><br>
-
-<a href="https://github.com/kittinan/spotify-github-profile">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3135cbhzjjviswpk6zxqfs23kreq&cover_image=true&theme=novatorem&show_offline=false&background_color=0d0d1f&interchange=false&profanity=false"
-  height="180"/>
-</a>
-
-</div>
 
 ## [~] Contribution Graph
 
