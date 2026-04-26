@@ -122,23 +122,18 @@ class Developer {
 
 <div align="center">
 
-<!-- Top Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=Sukanth19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1f&title_color=5EB3FF&icon_color=FF6B9D&text_color=c9d1d9&cache_seconds=86400"
-height="180"/>
-
-<br><br>
-
-<!-- Bottom Row -->
-<table>
+<table style="border: 1px solid #5EB3FF; border-radius: 8px; overflow: hidden; background-color: #0d0d1f;">
 <tr>
-<td align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Sukanth19&theme=tokyonight&hide_border=true&background=0d0d1f&ring=5EB3FF&fire=FF6B9D&currStreakLabel=5EB3FF&sideNums=5EB3FF&currStreakNum=FF6B9D&sideLabels=A78BFA&cache_seconds=86400"
-height="170"/>
+<td align="center" colspan="2" style="padding: 16px; border-bottom: 1px solid #1a1a3f;">
+<img src="https://github-readme-stats.vercel.app/api?username=Sukanth19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1f&title_color=5EB3FF&icon_color=FF6B9D&text_color=c9d1d9&cache_seconds=86400&card_width=800" width="100%" />
 </td>
-
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukanth19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1f&title_color=5EB3FF&text_color=c9d1d9&cache_seconds=86400"
-height="170"/>
+</tr>
+<tr>
+<td align="center" width="50%" style="padding: 16px;">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Sukanth19&theme=tokyonight&hide_border=true&background=0d0d1f&ring=5EB3FF&fire=FF6B9D&currStreakLabel=5EB3FF&sideNums=5EB3FF&currStreakNum=FF6B9D&sideLabels=A78BFA&cache_seconds=86400" width="100%" />
+</td>
+<td align="center" width="50%" style="padding: 16px;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukanth19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1f&title_color=5EB3FF&text_color=c9d1d9&cache_seconds=86400" width="100%" />
 </td>
 </tr>
 </table>
