@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- First line: Name -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=5EB3FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sukanth" alt="Typing SVG Line 1" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sukanth" alt="Typing SVG Line 1" />
 
 <!-- Second line: Roles -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Developer+%7C+Builder+%7C+Creator" alt="Typing SVG Line 2" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Developer+%7C+Builder+%7C+Creator" alt="Typing SVG Line 2" />
 
 <br>
 
@@ -122,18 +122,18 @@ class Developer {
 
 <div align="center">
 
-<table style="border: 1px solid #5EB3FF; border-radius: 8px; overflow: hidden; background-color: #0d0d1f;">
+<table style="border: 1px solid #7C3AED; border-radius: 8px; overflow: hidden; background-color: #0d0014;">
 <tr>
-<td align="center" colspan="2" style="padding: 16px; border-bottom: 1px solid #1a1a3f;">
-<img src="https://github-readme-stats.vercel.app/api?username=Sukanth19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1f&title_color=5EB3FF&icon_color=FF6B9D&text_color=c9d1d9&cache_seconds=86400&card_width=800" width="100%" />
+<td align="center" colspan="2" style="padding: 16px; border-bottom: 1px solid #1a0030;">
+<img src="https://github-readme-stats.vercel.app/api?username=Sukanth19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0014&title_color=C084FC&icon_color=EC4899&text_color=E9D5FF&cache_seconds=86400&card_width=800" width="100%" />
 </td>
 </tr>
 <tr>
 <td align="center" width="50%" style="padding: 16px;">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Sukanth19&theme=tokyonight&hide_border=true&background=0d0d1f&ring=5EB3FF&fire=FF6B9D&currStreakLabel=5EB3FF&sideNums=5EB3FF&currStreakNum=FF6B9D&sideLabels=A78BFA&cache_seconds=86400" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Sukanth19&theme=tokyonight&hide_border=true&background=0d0014&ring=C084FC&fire=EC4899&currStreakLabel=C084FC&sideNums=C084FC&currStreakNum=EC4899&sideLabels=A78BFA&cache_seconds=86400" width="100%" />
 </td>
 <td align="center" width="50%" style="padding: 16px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukanth19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1f&title_color=5EB3FF&text_color=c9d1d9&cache_seconds=86400" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukanth19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0014&title_color=C084FC&text_color=E9D5FF&cache_seconds=86400" width="100%" />
 </td>
 </tr>
 </table>
@@ -148,7 +148,7 @@ class Developer {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sukanth19&theme=react-dark&hide_border=true&bg_color=0d0d1f&color=5EB3FF&line=FF6B9D&point=c9d1d9&area=true&area_color=5EB3FF" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sukanth19&theme=react-dark&hide_border=true&bg_color=0d0014&color=C084FC&line=EC4899&point=E9D5FF&area=true&area_color=7C3AED" alt="Contribution Graph"/>
 
 </div>
 
@@ -160,7 +160,7 @@ class Developer {
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote_bg_color=0d0d1f&quote_color=5EB3FF&author_color=FF6B9D&border_color=5EB3FF)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote_bg_color=0d0014&quote_color=C084FC&author_color=EC4899&border_color=7C3AED)
 
 </div>
 
@@ -190,13 +190,13 @@ Building systems, solving problems, writing code.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0d0d1f?style=for-the-badge&logo=github&logoColor=5EB3FF)](https://github.com/Sukanth19)
-[![Email](https://img.shields.io/badge/Email-0d0d1f?style=for-the-badge&logo=gmail&logoColor=FF6B9D)](mailto:sukan3066@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-0d0d1f?style=for-the-badge&logo=discord&logoColor=A78BFA)](https://discord.com/users/zynk__19)
+[![GitHub](https://img.shields.io/badge/GitHub-0d0014?style=for-the-badge&logo=github&logoColor=C084FC)](https://github.com/Sukanth19)
+[![Email](https://img.shields.io/badge/Email-0d0014?style=for-the-badge&logo=gmail&logoColor=EC4899)](mailto:sukan3066@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-0d0014?style=for-the-badge&logo=discord&logoColor=A78BFA)](https://discord.com/users/zynk__19)
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sukanth19&color=5EB3FF&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Sukanth19&color=9B5CF6&style=flat-square&label=Profile+Views)
 
 </div>
 
