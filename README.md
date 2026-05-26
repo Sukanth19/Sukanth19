@@ -122,18 +122,10 @@ class Developer {
 
 <div align="center">
 
-<table style="border: 1px solid #7C3AED; border-radius: 8px; overflow: hidden; background-color: #0d0014;">
+<table style="border: 1px solid #7C3AED; border-radius: 8px; overflow: hidden; background-color: #0d0014; width: 70%;">
 <tr>
-<td align="center" colspan="2" style="padding: 16px; border-bottom: 1px solid #1a0030;">
-<img src="https://github-readme-stats.vercel.app/api?username=Sukanth19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0014&title_color=C084FC&icon_color=EC4899&text_color=E9D5FF&cache_seconds=86400&card_width=800" width="100%" />
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" style="padding: 16px;">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Sukanth19&theme=tokyonight&hide_border=true&background=0d0014&ring=C084FC&fire=EC4899&currStreakLabel=C084FC&sideNums=C084FC&currStreakNum=EC4899&sideLabels=A78BFA&cache_seconds=86400" width="100%" />
-</td>
-<td align="center" width="50%" style="padding: 16px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukanth19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0014&title_color=C084FC&text_color=E9D5FF&cache_seconds=86400" width="100%" />
+<td align="center" style="padding: 28px 32px;">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Sukanth19&hide_border=true&background=0d0014&ring=C084FC&fire=EC4899&currStreakLabel=C084FC&sideNums=C084FC&currStreakNum=EC4899&sideLabels=A78BFA&dates=E9D5FF&stroke=7C3AED" width="100%" />
 </td>
 </tr>
 </table>
