@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- First line: Name -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sukanth" alt="Typing SVG Line 1" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=B8AED8&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sukanth" alt="Typing SVG Line 1" />
 
 <!-- Second line: Roles -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Developer+%7C+Builder+%7C+Creator" alt="Typing SVG Line 2" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=9B1B30&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Developer+%7C+Builder+%7C+Creator" alt="Typing SVG Line 2" />
 
 <br>
 
@@ -122,10 +122,10 @@ class Developer {
 
 <div align="center">
 
-<table style="border: 1px solid #7C3AED; border-radius: 8px; overflow: hidden; background-color: #0d0014; width: 70%;">
+<table style="border: 1px solid #5C4A66; border-radius: 8px; overflow: hidden; background-color: #0a0a0d; width: 70%;">
 <tr>
 <td align="center" style="padding: 28px 32px;">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Sukanth19&hide_border=true&background=0d0014&ring=C084FC&fire=EC4899&currStreakLabel=C084FC&sideNums=C084FC&currStreakNum=EC4899&sideLabels=A78BFA&dates=E9D5FF&stroke=7C3AED" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Sukanth19&hide_border=true&background=0a0a0d&ring=B8AED8&fire=9B1B30&currStreakLabel=B8AED8&sideNums=B8AED8&currStreakNum=9B1B30&sideLabels=8B8B9A&dates=E8E0EC&stroke=5C4A66" width="100%" />
 </td>
 </tr>
 </table>
@@ -140,7 +140,7 @@ class Developer {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sukanth19&theme=react-dark&hide_border=true&bg_color=0d0014&color=C084FC&line=EC4899&point=E9D5FF&area=true&area_color=7C3AED" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sukanth19&theme=react-dark&hide_border=true&bg_color=0a0a0d&color=B8AED8&line=9B1B30&point=E8E0EC&area=true&area_color=5C4A66" alt="Contribution Graph"/>
 
 </div>
 
@@ -152,7 +152,7 @@ class Developer {
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote_bg_color=0d0014&quote_color=C084FC&author_color=EC4899&border_color=7C3AED)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote_bg_color=0a0a0d&quote_color=B8AED8&author_color=9B1B30&border_color=5C4A66)
 
 </div>
 
@@ -182,13 +182,13 @@ Building systems, solving problems, writing code.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0d0014?style=for-the-badge&logo=github&logoColor=C084FC)](https://github.com/Sukanth19)
-[![Email](https://img.shields.io/badge/Email-0d0014?style=for-the-badge&logo=gmail&logoColor=EC4899)](mailto:sukan3066@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-0d0014?style=for-the-badge&logo=discord&logoColor=A78BFA)](https://discord.com/users/zynk__19)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a0d?style=for-the-badge&logo=github&logoColor=B8AED8)](https://github.com/Sukanth19)
+[![Email](https://img.shields.io/badge/Email-0a0a0d?style=for-the-badge&logo=gmail&logoColor=9B1B30)](mailto:sukan3066@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-0a0a0d?style=for-the-badge&logo=discord&logoColor=8B8B9A)](https://discord.com/users/zynk__19)
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sukanth19&color=9B5CF6&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Sukanth19&color=9B1B30&style=flat-square&label=Profile+Views)
 
 </div>
 
