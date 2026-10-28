@@ -40,16 +40,17 @@ Computer Science undergraduate at **Amrita Vishwa Vidyapeetham**. I build at the
 ```cpp
 class Developer {
     private:
-        vector<string> languages      = {"C++", "Python", "JavaScript", "TypeScript", "C", "Java", "Haskell"};
-        vector<string> libraries      = {"Pandas", "NumPy", "Matplotlib", "Seaborn"};
-        vector<string> web            = {"HTML/CSS", "React", "Next.js", "Flask", "FastAPI"};
-        vector<string> databases      = {"PostgreSQL", "Supabase", "Firebase", "MongoDB"};
-        vector<string> gamedev        = {"Unity", "Godot", "Blender"};
-        vector<string> devops_cloud   = {"Docker", "Kubernetes", "Linux", "Bash"};
-        vector<string> tools          = {"Git", "GitHub", "Postman", "Neovim"};
+        vector<string> languages      = {"Python", "TypeScript", "JavaScript", "C++", "C", "Java", "Kotlin", "Haskell"};
+        vector<string> ml_data        = {"PyTorch", "scikit-learn", "OpenCV", "Pandas", "NumPy", "Matplotlib"};
+        vector<string> web            = {"Next.js", "React", "Tailwind CSS", "FastAPI", "Flask", "Socket.IO"};
+        vector<string> mobile         = {"Jetpack Compose", "Room", "Hilt"};
+        vector<string> databases      = {"PostgreSQL", "PostGIS", "Redis", "SQLite", "MongoDB"};
+        vector<string> gamedev        = {"Godot", "Unity", "Blender"};
+        vector<string> devops_cloud   = {"Docker", "Linux", "Bash", "Caddy", "systemd"};
+        vector<string> tools          = {"Git", "GitHub", "Postman", "Neovim", "uv"};
 
     public:
-        string current_status = "Building SneakerNet & jamr.io";
+        string current_status = "Shipping Eidothea & training vision models";
         string learning       = "Advanced algorithms & system design";
 
         void code() {
@@ -72,16 +73,16 @@ class Developer {
 <tr>
 <td width="50%" valign="top">
 
-**SneakerNet** — Sneaker intelligence platform that aggregates pricing across marketplaces to help users discover fair value, track resale trends, and make informed buy or sell decisions. Built with a scalable backend and ML-ready architecture for future personalization and analytics.
+**[Shoplifting Detection](https://github.com/Sukanth19/intelligent-shoplifitng-detection)** — Flags suspicious moments in retail CCTV footage using a Transformer over Video Swin features. 87.6% AUC on shoplifting.
 
-`Next.js` `FastAPI` `PostgreSQL` `Web Scraping` `Machine Learning`
+`PyTorch` `Video Swin` `OpenCV` `Flask`
 
 </td>
 <td width="50%" valign="top">
 
-**jamr.io** — Real-time music matchmaking platform that connects users into Spotify Jam rooms based on shared listening taste. Users are matched via audio-feature similarity, join live chat rooms, and hop into Spotify Jams through invite links.
+**[A.D.H.D](https://github.com/Sukanth19/A.D.H.D)** — A student-built map of everything worth doing around campus, with trust scores and verified reviews.
 
-`Next.js` `FastAPI` `Spotify Web API` `WebSockets` `PostgreSQL` `scikit-learn` `TypeScript`
+`Next.js` `FastAPI` `PostGIS` `Redis` `Mapbox`
 
 </td>
 </tr>
@@ -89,16 +90,16 @@ class Developer {
 <tr>
 <td width="50%" valign="top">
 
-**Typing Tester** — Speed typing game with moving targets. Built to improve typing accuracy and speed through gamification.
+**[jamr.io](https://github.com/Sukanth19/jamr.io)** — Matches people by Spotify listening taste and drops them into live rooms that link to Spotify Jams.
 
-`JavaScript` `Canvas API`
+`FastAPI` `Socket.IO` `Spotify API` `PostgreSQL`
 
 </td>
 <td width="50%" valign="top">
 
-**Image to ASCII** — Efficient C utility for converting images to ASCII art. Optimized for terminal output and file processing.
+**[Velto](https://github.com/Sukanth19/velto)** — An Android to-do app that picks your next task for you, then starts a focus timer in one tap.
 
-`C` `Image Processing`
+`Kotlin` `Jetpack Compose` `Room` `Hilt`
 
 </td>
 </tr>
@@ -106,9 +107,9 @@ class Developer {
 <tr>
 <td colspan="2" valign="top">
 
-**Eidothea** — Knowledge archive and community platform for creepypastas, SCP lore, cryptids, and real-life mysteries. Designed with structured lore entries and discussion threads so users can explore canon information while sharing theories and interpretations.
+**[Eidothea](https://github.com/Sukanth19/eidothea)** — A dark archive of creepypastas, SCP entries, cryptids and game lore. Canon pages stay clean, and theories go in discussion threads. Self-hosted.
 
-`FastAPI` `Python` `Web Development` `Community Systems`
+`Next.js` `TypeScript` `FastAPI` `SQLite` `Caddy`
 
 </td>
 </tr>
