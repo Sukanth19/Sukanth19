@@ -136,8 +136,6 @@ class Developer {
 
 ---
 
-## [@] Connect
-
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-0a0a0d?style=for-the-badge&logo=github&logoColor=B8AED8)](https://github.com/Sukanth19)
